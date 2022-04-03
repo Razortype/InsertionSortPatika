@@ -1,0 +1,2 @@
+# InsertionSortPatika
+Insertion sort algorithm
